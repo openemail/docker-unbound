@@ -1,6 +1,6 @@
 FROM alpine:3.10
 
-LABEL maintainer "Andre Peters <andre.peters@servercow.de>"
+LABEL maintainer "Amila Kothalawala <amila@openemail.io>"
 
 RUN apk add --update --no-cache \
 	curl \
